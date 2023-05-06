@@ -6,7 +6,7 @@ namespace MusicLyrics.Services
 {
     internal static class GeniusService
     {
-        private static HtmlWeb Oweb = new();
+        private static readonly HtmlWeb Oweb = new();
 
 		public static string FetchLyrics(string link)
         {
