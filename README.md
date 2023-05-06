@@ -1,4 +1,4 @@
-﻿# MusicLyrics
+# MusicLyrics
 Una libreria para C# que te permite traer la letra de una canción
 
 Search in the nuget package:  [MusicLyrics](https://www.nuget.org/packages/MusicLyrics/)
