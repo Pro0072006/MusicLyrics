@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>MusicLyrics</Title>
+    <Authors>Pro0072006</Authors>
+    <NeutralLanguage>aa</NeutralLanguage>
+    <Description>A tool for bring the lyrics of a song</Description>
+    <PackageTags>Lyrics; music; Genius; SearchLyrics; Apolo</PackageTags>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>AFL-3.0</PackageLicenseExpression>
+    <Company>Mesillas</Company>
+    <Version>1.0.3</Version>
+    <RepositoryUrl>https://github.com/Pro0072006/MusicLyrics</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Correcion de un bug</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ScrapySharp" Version="3.0.0" />
+  </ItemGroup>
+
+</Project>
