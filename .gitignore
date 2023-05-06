@@ -365,4 +365,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /nuget.config
-/src/Services
+/src/Helpers/
+/src/Services/
