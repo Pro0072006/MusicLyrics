@@ -1,5 +1,5 @@
-﻿using MusicLyrics.Helpers;
-using MusicLyrics.Services;
+﻿using MusicLyrics.src.Helpers;
+using MusicLyrics.src.Services;
 
 namespace MusicLyrics.src
 {

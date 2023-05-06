@@ -1,6 +1,6 @@
 ﻿using HtmlAgilityPack;
 using ScrapySharp.Extensions;
-using MusicLyrics.Helpers;
+using MusicLyrics.src.Helpers;
 
 namespace MusicLyrics.src.Services
 {
