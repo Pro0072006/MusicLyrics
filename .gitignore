@@ -364,4 +364,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/Services/GeniusService.cs
+/Services
