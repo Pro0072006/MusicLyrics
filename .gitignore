@@ -4,7 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 ##Carpetas sin mostrar y archivos
-/Services/
+/Services
+/nuget.config
 
 # User-specific files
 *.rsuser
@@ -364,4 +365,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/Services
