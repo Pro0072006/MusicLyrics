@@ -5,7 +5,6 @@
 
 ##Carpetas sin mostrar y archivos
 /Services
-/nuget.config
 
 # User-specific files
 *.rsuser
