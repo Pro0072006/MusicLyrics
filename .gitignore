@@ -367,3 +367,4 @@ FodyWeavers.xsd
 /nuget.config
 /src/Helpers/
 /src/Services/
+/src/Services/GeniusService.cs
